@@ -1,0 +1,38 @@
+
+.div1{
+    /* border: 2px solid red; */
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 180px;
+    
+}
+.div2{
+    /* border: 2px solid red; */
+    background-color: rgb(66, 65, 65);
+    color: white;
+    width: auto;
+    height: 350px;
+}
+.body {
+    margin: 25% 10%;
+}
+td{
+    border: 0.5px solid black ;
+    width: 25%
+}
+
+table {
+    
+    width: 100% ;
+    height: 100% ;
+    /* table-layout: calc(100%/4); */
+    text-align: center;
+    
+}
+span{
+    display: flex;
+    justify-content: end;
+    font-size: 30px;
+    align-items: center;
+}
